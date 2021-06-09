@@ -5,4 +5,4 @@ require "httparty"
            HTTParty.get("http://parodify.qaninja.com.br/helpers?email=#{email}") #metodo no postman,tipo get
         end
     
-    end
+       
